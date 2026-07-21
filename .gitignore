@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# solver package cloned locally by the notebooks' setup cell (built on Colab, not versioned)
+GGI_cosmology_notebooks/
