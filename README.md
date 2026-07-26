@@ -1,4 +1,4 @@
-# Cosmological Parameter-Estimation Methods
+# Cosmological parameter estimation with BAO and CMB
 
 Teaching material for ICTS summer school in 2026. These notebooks develop practical skills in both Bayesian and
 frequentist approaches to parameter inference, with an emphasis on building working implementations from scratch. 
@@ -78,17 +78,13 @@ The easiest way to run these notebooks would be on Google colab, using the links
 
 ## Further reading
 
-- [Procoli implementation of profiles in cosmology](https://arxiv.org/pdf/2401.14225)
-- [How to use profiles in cosmology](https://arxiv.org/pdf/2408.07700)
-- [Why isn't every physicist a Bayesian? ](https://www.astro.princeton.edu/~strauss/AST303/bayesian_paper.pdf)
-- [Feldman-Cousins boundary corrections](https://arxiv.org/pdf/physics/9711021)
-- [Fisher matrices in cosmology](https://arxiv.org/pdf/0906.4123)
-
-
-<br>
-
 - [Original Metropolis paper](https://www.aliquote.org/pub/metropolis-et-al-1953.pdf)
 - [Original Hastings paper](https://www.jstor.org/stable/2334940?seq=1)
+- [Why isn't every physicist a Bayesian? ](https://www.astro.princeton.edu/~strauss/AST303/bayesian_paper.pdf)
+- [Procoli implementation of profiles in cosmology](https://arxiv.org/pdf/2401.14225)
+- [How to use profiles in cosmology](https://arxiv.org/pdf/2408.07700)
+- [Feldman-Cousins boundary corrections](https://arxiv.org/pdf/physics/9711021)
+- [Fisher matrices in cosmology](https://arxiv.org/pdf/0906.4123)
 
 
 ---
