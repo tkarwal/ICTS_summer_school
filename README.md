@@ -67,11 +67,11 @@ The easiest way to run these notebooks would be on Google colab, using the links
 
 ## Notebooks by lecture 
 
-| Topic | Lectures | Notebook | Colab link | Solutions |
-|-------|----------------|----------|------------|-----------|
-| Bayesian statistics | MCMC slides | [`write_MH_MCMC`](https://github.com/tkarwal/ICTS_summer_school/blob/main/icts_write_MH_MCMC.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/ICTS_summer_school/blob/main/icts_write_MH_MCMC.ipynb) | Uploaded post lectures |
-| Profile likelihoods | Profiles slides | [`write_profile_likelihood`](https://github.com/tkarwal/ICTS_summer_school/blob/main/icts_write_profile_likelihood.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/ICTS_summer_school/blob/main/icts_write_profile_likelihood.ipynb) | - |
-| MontePython and Cobaya demos | Samplers slides | No notebooks | - | - |
+| Topic | Lectures | Notebook | Colab link | 
+|-------|----------------|----------|------------|
+| Bayesian statistics | [MCMC slides from a previous school](https://github.com/tkarwal/GGI_cosmo_stats/blob/main/Karwal_GGI_1_Bayesian_MCMC.pdf) | [`write_MH_MCMC`](https://github.com/tkarwal/ICTS_summer_school/blob/main/icts_write_MH_MCMC.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/ICTS_summer_school/blob/main/icts_write_MH_MCMC.ipynb) |
+| Profile likelihoods | [Profiles slides](https://github.com/tkarwal/ICTS_summer_school/blob/main/Karwal_ICTS_3_Frequentist_profiles.pdf) | [`write_profile_likelihood`](https://github.com/tkarwal/ICTS_summer_school/blob/main/icts_write_profile_likelihood.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tkarwal/ICTS_summer_school/blob/main/icts_write_profile_likelihood.ipynb) | 
+| MontePython and Cobaya demos | [Samplers slides](https://github.com/tkarwal/ICTS_summer_school/blob/main/Karwal_ICTS_4_Samplers_demo.pdf) | No notebooks | - | 
 
 
 ---
